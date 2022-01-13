@@ -1,0 +1,7 @@
+﻿  CPOMlab4.cpp
+C:\Users\korob\source\repos\CPOMlab4\CPOMlab4\CPOMlab4.cpp(22,44): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\korob\source\repos\CPOMlab4\CPOMlab4\CPOMlab4.cpp(25,44): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\korob\source\repos\CPOMlab4\CPOMlab4\CPOMlab4.cpp(59,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\korob\source\repos\CPOMlab4\CPOMlab4\CPOMlab4.cpp(189,44): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\korob\source\repos\CPOMlab4\CPOMlab4\CPOMlab4.cpp(192,44): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  CPOMlab4.vcxproj -> C:\Users\korob\source\repos\CPOMlab4\x64\Debug\CPOMlab4.exe
